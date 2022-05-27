@@ -1,0 +1,45 @@
+﻿
+@using CakesOrder.Models;
+@model User
+
+@{
+   ViewData["Title"] = "SignUp Page";
+   
+}
+<div id="login">
+
+<partial name="MainHeading" />
+<br /><br /><br />
+    <div class="container">
+        <div id="login-row" class="row justify-content-center align-items-center">
+            <div id="login-column" class="col-md-6">
+                <div id="login-box" class="col-md-12">
+                    <form action="/User/signUp" method="post">
+                        <div class="mb-1">
+                            <label asp-for="Name" >User Name</label>
+                            <input asp-for="Name" class="form-control" id="exampleInputEmail1">
+                            <span asp-validation-for="Name" class ="errors" ></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" class="form-control" id="exampleInputPassword1">
+                            <span asp-validation-for="Password" class ="errors" ></span>
+                        </div>
+                         <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control" id="exampleInputPassword1">
+                            <span asp-validation-for="Email" class ="errors" ></span>
+                        </div>
+                       
+                       
+                          <span class ="errors">@ViewBag.UserExists</span>
+                              <br /> 
+                        <button type="submit" class ="btn btn-secondary" >SignUp</button>
+                    </form>
+
+                   <p class="mb-3" style="text-align:right"><a href="/User/Login" method="get">If you have already an account. login from here</a> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

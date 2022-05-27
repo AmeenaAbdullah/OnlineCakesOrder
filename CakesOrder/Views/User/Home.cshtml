@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ORDER CAKES ONLINE";
+    ViewData["desc"] = "BEST ONLINE CAKE STORE";
+}
+
+
+<div class="container">
+  <img class="img1" src="./images/background11.png" alt="" style="width:100%">
+  @section s1{
+ <a href="../User/Signup" style="margin-right:5px" class="btn btn-secondary"> 
+     SIGNUP</a>
+
+        
+            <a href="../User/Login" style="text-decoration:none" class="btn btn-secondary">
+                
+                    LOGIN
+                   </a>
+  
+   }
+  <div class="btn1">
+       <p>CAKE BAKERY</p>
+      <a  class="btn btn-secondary btn-lg" href="/User/Items" method="get" role="button" style="text-decoration:none">ORDER ONLINE</a>
+  </div>
+ </div>
+
+
+ <partial name="MainHeading" />
+  <partial name="MypartialView1(items)" />

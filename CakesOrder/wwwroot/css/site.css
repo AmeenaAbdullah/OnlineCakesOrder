@@ -1,0 +1,125 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+.containerMain{
+    background-color:white;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    /*background-image:url("../images/Wp.png");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.errors {
+    color: red;
+}
+.container {
+    position:relative;
+    width: 100%;
+    max-width: 100%;
+}
+.container .img1 {
+        width: 100%;
+        height: auto;
+        opacity: 0.5;
+    }
+
+    .container .btn1{
+        position: relative;
+        #top: 50%;
+        left: 50%;
+        bottom:50%;
+        transform: translate(-50%, -300%);
+        -ms-transform: translate(-50%, -50%);
+        color: white;
+        font-size: 50px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .container .bt {
+        color: white;
+    }
+    a{
+        text-decoration:none;
+    }
+ .container .bt:hover {
+        background-color: black;
+    }
+.row{
+    align-items:center;
+    margin:auto;
+    text-align:center;
+    margin-left:80px;
+}
+.Heading {
+    align-items: center;
+    margin: auto;
+    color:black;
+    margin:10px 10px 10px 10px;
+    text-decoration:underline;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+        background-color: #45a049;
+    
+}
+
+/* Style the container/contact section */
+.container2 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column2 {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
