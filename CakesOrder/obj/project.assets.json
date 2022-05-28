@@ -2528,11 +2528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\CakesOrder\\CakesOrder.csproj",
+      "projectUniqueName": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\CakesOrder.csproj",
       "projectName": "CakesOrder",
-      "projectPath": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\CakesOrder\\CakesOrder.csproj",
+      "projectPath": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\CakesOrder.csproj",
       "packagesPath": "C:\\Users\\Ameena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\CakesOrder\\obj\\",
+      "outputPath": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ameena\\AppData\\Roaming\\NuGet\\NuGet.Config",

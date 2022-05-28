@@ -8,65 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CakesOrder
 build_property.RootNamespace = CakesOrder
-build_property.ProjectDir = C:\Users\Ameena\Documents\semester6\EAD\project\CakesOrder\
+build_property.ProjectDir = C:\Users\Ameena\Documents\semester6\EAD\project\PROJECT\CakesOrder\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ameena\Documents\semester6\EAD\project\CakesOrder
+build_property.MSBuildProjectDirectory = C:\Users\Ameena\Documents\semester6\EAD\project\PROJECT\CakesOrder
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/Shared/Error.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/Shared/Components/Products/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdHNcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/BreakFast_Lunch.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/BreakFast_Lunch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCcmVha0Zhc3RfTHVuY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Contact.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/cakes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxjYWtlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Drink.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Drink.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEcmluay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Home.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Items.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Items.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJdGVtcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Login.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/MainHeading.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/MainHeading.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNYWluSGVhZGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/MypartialView1(items).cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/MypartialView1(items).cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNeXBhcnRpYWxWaWV3MShpdGVtcykuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/User/Signup.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/User/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/_ViewImports.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/_ViewStart.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ameena/Documents/semester6/EAD/project/CakesOrder/Views/Shared/_Layout.cshtml]
+[C:/Users/Ameena/Documents/semester6/EAD/project/PROJECT/CakesOrder/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w4fq4b8lbk
