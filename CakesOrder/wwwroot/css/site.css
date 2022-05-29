@@ -11,6 +11,9 @@ html {
         height:40px;
     }*/
 }
+body{
+    position:relative;
+}
 
 .orderOnline {
     width: 200px;
@@ -133,8 +136,11 @@ input[type=submit]:hover {
 
 /* Style the container/contact section */
 .container2 {
-    border-radius: 5px;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 80%;
     background-color: #f2f2f2;
+    height:800px;
     padding: 10px;
 }
 
@@ -142,9 +148,13 @@ input[type=submit]:hover {
 .column2 {
     float: left;
     width: 50%;
-    margin-top: 6px;
+    margin-top: 140px;
     padding: 20px;
+
 }
+ input{
+        border-radius: 40px;
+    }
 
 /* Clear floats after the columns */
 .row2:after {
@@ -166,7 +176,7 @@ input[type=submit]:hover {
     padding: 1.625rem 2.625rem 1.625rem 2.625rem;
     border: 1px solid #652d90;
     border-radius: 30px;
-    background-color: #652d90;
+    background-image: linear-gradient(315deg, #9fa4c4 0%, #9e768f 74%);
     color: #ffffff;
     font-weight: 600;
     font-size: 0.875rem;
@@ -206,6 +216,17 @@ input[type=submit]:hover {
     
 }
 .headings {
-    width: 700px;
-    height: 130px;
+    width: 600px;
+    height: 100px;
+}
+footer {
+    position: absolute;
+    width: 100%;
+    height: max-content ;
+
+    
+}
+/*login*/
+.form-control{
+border-radius:40px;
 }

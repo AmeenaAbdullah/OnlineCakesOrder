@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5azWhzVNvoAOeYkeX6uwq0A7GS0hklpicNfxE75iC/g=",
+  "Hash": "JEXLf9+xi7X5Jg18lggPa+BwOn21qyZ3VxFEEFmrJyY=",
   "Source": "CakesOrder",
   "BasePath": "_content/CakesOrder",
   "Mode": "Default",
@@ -408,6 +408,57 @@
       "OriginalItemSpec": "wwwroot\\images\\HazelnutChocolate.png"
     },
     {
+      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\login.png",
+      "SourceId": "CakesOrder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
+      "BasePath": "_content/CakesOrder",
+      "RelativePath": "images/login.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\login_H.png",
+      "SourceId": "CakesOrder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
+      "BasePath": "_content/CakesOrder",
+      "RelativePath": "images/login_H.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_H.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\loginlogo.png",
+      "SourceId": "CakesOrder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
+      "BasePath": "_content/CakesOrder",
+      "RelativePath": "images/loginlogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\loginlogo.png"
+    },
+    {
       "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\logo.png",
       "SourceId": "CakesOrder",
       "SourceType": "Discovered",
@@ -459,23 +510,6 @@
       "OriginalItemSpec": "wwwroot\\images\\mainhead1.png"
     },
     {
-      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\msg.png",
-      "SourceId": "CakesOrder",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
-      "BasePath": "_content/CakesOrder",
-      "RelativePath": "images/msg.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\msg.png"
-    },
-    {
       "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\Page2.png",
       "SourceId": "CakesOrder",
       "SourceType": "Discovered",
@@ -510,12 +544,12 @@
       "OriginalItemSpec": "wwwroot\\images\\princes.png"
     },
     {
-      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\title.png",
+      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\signin.png",
       "SourceId": "CakesOrder",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
       "BasePath": "_content/CakesOrder",
-      "RelativePath": "images/title.png",
+      "RelativePath": "images/signin.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\title.png"
+      "OriginalItemSpec": "wwwroot\\images\\signin.png"
     },
     {
-      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\Wp.png",
+      "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\images\\talk.png",
       "SourceId": "CakesOrder",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\",
       "BasePath": "_content/CakesOrder",
-      "RelativePath": "images/Wp.png",
+      "RelativePath": "images/talk.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,7 +575,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Wp.png"
+      "OriginalItemSpec": "wwwroot\\images\\talk.png"
     },
     {
       "Identity": "C:\\Users\\Ameena\\Documents\\semester6\\EAD\\project\\PROJECT\\CakesOrder\\wwwroot\\js\\site.js",

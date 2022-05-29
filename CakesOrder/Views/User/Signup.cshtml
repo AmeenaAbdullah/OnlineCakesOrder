@@ -3,43 +3,76 @@
 @model User
 
 @{
-   ViewData["Title"] = "SignUp Page";
    
 }
-<div id="login">
+ <br /><br /><br /><br />
 
-<partial name="MainHeading" />
-<br /><br /><br />
-    <div class="container">
-        <div id="login-row" class="row justify-content-center align-items-center">
-            <div id="login-column" class="col-md-6">
-                <div id="login-box" class="col-md-12">
-                    <form action="/User/signUp" method="post">
-                        <div class="mb-1">
-                            <label asp-for="Name" >User Name</label>
-                            <input asp-for="Name" class="form-control" id="exampleInputEmail1">
-                            <span asp-validation-for="Name" class ="errors" ></span>
+  <h1 class="text-center Heading" ><img class="headings" src="/./images/signin.png" style="width: 285px;"/> </h1>
+<section class="h-100 gradient-form" style="background-color: #eee;">
+  <div class="container py-5 h-100 " >
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black">
+          <div class="row g-0">
+            <div class="col-lg-6">
+              <div class="card-body p-md-5 mx-md-4">
+
+                
+                  <img src="/./images/loginlogo.png" style="width: 285px;" alt="logo">/
+               
+
+
+
+                 <form  asp-controller="User" asp-action="Signup"  method="post" >
+                    
+                        <div class="form-outline mb-4">
+                             <label asp-for="Name" class="form-label" >UserName</label>
+                           <input asp-for="Name" class="form-control material-icons" placeholder="&#xf007; &nbsp;" >
+                           
+                            <span asp-validation-for="Name" class ="errors"></span>
                         </div>
-                        <div class="mb-3">
-                            <label asp-for="Password" class="form-label">Password</label>
-                            <input asp-for="Password" class="form-control" id="exampleInputPassword1">
-                            <span asp-validation-for="Password" class ="errors" ></span>
+
+                        <div class="form-outline mb-4">
+                             <label asp-for="Password" class="form-label" >Password</label>
+                             <input asp-for="Password" class="form-control" placeholder="Enter Password"  >
+                           
+                            <span asp-validation-for="Password" class ="errors"></span>
+                            
+                            <span class ="errors">@ViewBag.validation</span>
                         </div>
-                         <div class="mb-3">
-                            <label asp-for="Email" class="form-label">Email</label>
-                            <input asp-for="Email" class="form-control" id="exampleInputPassword1">
+                          <div class="form-outline mb-4">
+                                  <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control placeholder="Enter Email">
+                           
                             <span asp-validation-for="Email" class ="errors" ></span>
-                        </div>
-                       
-                       
-                          <span class ="errors">@ViewBag.UserExists</span>
-                              <br /> 
-                        <button type="submit" class ="btn btn-secondary" >SignUp</button>
+
+
+                          </div>
+                           <div class="text-center pt-1 mb-5 pb-1">
+                    <button type="submit" class="btn" style="border-radius:40px; background-image: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%); width:100%;" type="button">SignUp
+                      </button>
+                      <br />
+                  </div>
+
+                  <div class="d-flex align-items-center justify-content-center pb-4">
+                    <p class="mb-1 me-5">Do you have an account?</p>
+                    <a  href="/../Views/User/Login" class="btn btn-outline-danger">Login</a>
+                  </div>
+
+                        
                     </form>
 
-                   <p class="mb-3" style="text-align:right"><a href="/User/Login" method="get">If you have already an account. login from here</a> </p>
-                </div>
+              </div>
             </div>
+            <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+              <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                <h4 class="mb-4">/h4>
+                <p class="small mb-0"><img  src="/./images/login.png" width="80%" height="60%"></p>
+              </div>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
-</div>
+  </div>
+</section>
